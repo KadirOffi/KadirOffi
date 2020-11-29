@@ -10,6 +10,6 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour disc
 ### Mon language préféré
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLO-1610)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadir-FiveM)](https://github.com/Kadir-FiveM)
 
 <br />
