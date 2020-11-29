@@ -13,7 +13,7 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour disc
 <br/>
 
 <details> 
-  <summary>:zap: Mes stats github</summary>
+  <summary>Mes stats github</summary>
 
   <br />
   
