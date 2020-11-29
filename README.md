@@ -4,11 +4,18 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour disc
 
 ### Me contacter
 
-<br />
+<br/>
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Kadir#6400 or https://discord.gg/ABDVEUBne9]
+<details> 
+  <summary>:zap: My GitHub Stats</summary>
 
-<br />
+  <br />
+  
+  [![Hoyame's github stats](https://github-readme-stats.vercel.app/api?username=hoyame&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyame&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
 ### Mon language préféré
 
