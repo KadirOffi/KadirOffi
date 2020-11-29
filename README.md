@@ -17,10 +17,9 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour disc
   
 </details>
 
-### Mon language préféré
+### Conclusion
 
-<br />
+Voilà je suis apprentie développeur sur FiveM, je souhaite réussir sur la programation ;)
+Merci d'avoir pris le temps de lire ceci ! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadir-FiveM)](https://github.com/Kadir-FiveM)
-
-<br />
+###### Bonne journée !
