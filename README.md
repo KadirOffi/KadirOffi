@@ -2,8 +2,7 @@
 
 J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour discord .
 
-## Me contacter
-
+### Me contacter
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
