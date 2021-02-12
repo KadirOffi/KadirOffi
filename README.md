@@ -1,6 +1,6 @@
 # Bonjour ! Je suis kadir.
 
-J'aime la programation, je fais actuellement du LUA sur FiveM et du JS pour discord .
+J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur discord .
 
 ### Me contacter
 
