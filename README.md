@@ -25,7 +25,7 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur disco
 
 ### Conclusion
 
-Voilà je suis apprentie développeur sur FiveM, je souhaite réussir sur la programation ;)
+Voilà je suis apprenti développeur sur FiveM, je souhaite réussir dans la programation ;)
 Merci d'avoir pris le temps de lire ceci ! 
 
 ###### Bonne journée !
