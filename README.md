@@ -6,7 +6,7 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur disco
 
 <br/>
 
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"> Kadir#6400 or https://discord.gg/BnhqGyYFvm
+<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"> Kadir#6400 or https://discord.gg/6AqESyvnNS
  <br />
 <br/>
 
