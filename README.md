@@ -11,7 +11,7 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur disco
 <br/>
 
 <br/>
-  <a href="https://github.com/Kadir-FiveM">
+  <a href="https://discord.gg/6AqESyvnNS">
   <img src="https://discord.c99.nl/widget/theme-1/309410099217039371.png"> </a>
 <br/>
 
