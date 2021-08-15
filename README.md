@@ -12,6 +12,9 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur disco
 
 <br/>
 
+ <a href="https://github.com/Kadir-FiveM">
+<img src="https://discord.c99.nl/widget/theme-1/309410099217039371.png"> </a>
+
 <details> 
   <summary>Mes stats github</summary>
 
