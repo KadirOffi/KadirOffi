@@ -9,13 +9,12 @@ J'aime la programation, je fais actuellement du LUA sur FiveM et du JS sur disco
 <img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"> Kadir#6400 or https://discord.gg/BnhqGyYFvm
  
  <br />
-
+ <a href="https://github.com/Kadir-FiveM">
+<img src="https://discord.c99.nl/widget/theme-1/309410099217039371.png"> </a>
 <br/>
 
 
 <details> 
- <a href="https://github.com/Kadir-FiveM">
-<img src="https://discord.c99.nl/widget/theme-1/309410099217039371.png"> </a>
  <summary>Mes stats github</summary>
 
   <br />
