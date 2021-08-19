@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/6AqESyvnNS"><img alt="Discord" src="https://img.shields.io/badge/Developpement-blue?style=flat-square&logo=discord"></a> <br>
+    <a href="https://discord.gg/6AqESyvnNS"><img alt="Discord" src="https://img.shields.io/badge/Discord-Developpement Server-blue?style=flat-square&logo=discord"></a> <br>
 </p>
