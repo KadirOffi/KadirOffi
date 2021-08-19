@@ -7,3 +7,4 @@
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
 <div align='center'>
     [![Kadir's Github Stats](https://github-readme-stats.vercel.app/api?username=Kadir-FiveM&show_icons=true)](https://github.com/Kadir-FiveM)
+</div>
