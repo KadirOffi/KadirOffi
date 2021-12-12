@@ -13,6 +13,3 @@
     <a href="https://discord.com/users/309410099217039371"><img alt="Discord" src="https://img.shields.io/badge/Discord-Kadir-blue?style=flat-square&logo=discord"></a> <br>
 </p>
 
-<p align="center">
-    <a href="https://discord.gg/6AqESyvnNS"><img alt="Discord" src="https://img.shields.io/badge/Discord-Developpement Server-blue?style=flat-square&logo=discord"></a> <br>
-</p>
