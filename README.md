@@ -3,9 +3,9 @@
 <h2 align='center'> ✍🏼 My GitHub statistics</h2>
 <div align='center'>
 
-[![Kadir's Github Stats](https://github-readme-stats.vercel.app/api?username=Kadir-FiveM&show_icons=true)](https://github.com/Kadir-FiveM)
+[![Kadir's Github Stats](https://github-readme-stats.vercel.app/api?username=Kadir-FiveM&show_icons=true)](https://github.com/KadirOffi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadir-FiveM)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirOffi)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 <h2 align='center'>🎧 My Discord </h2>
 
